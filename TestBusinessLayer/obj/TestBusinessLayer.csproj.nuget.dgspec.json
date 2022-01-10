@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\TestBusinessLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\TestBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\TestBusinessLayer.csproj",
+        "projectName": "TestBusinessLayer",
+        "projectPath": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\TestBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Ka8eeM\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ka8eeM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestDataAccessLayer\\TestDataAccessLayer.csproj": {
+                "projectPath": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestDataAccessLayer\\TestDataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

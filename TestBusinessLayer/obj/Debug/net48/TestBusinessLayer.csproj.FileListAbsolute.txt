@@ -1,0 +1,15 @@
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\TestBusinessLayer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\TestBusinessLayer.pdb
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\EntityFramework.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\TestDataAccessLayer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\TestDataAccessLayer.pdb
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\bin\Debug\net48\TestDataAccessLayer.dll.config
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.AssemblyInfoInputs.cache
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.AssemblyInfo.cs
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.csproj.CopyComplete
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestBusinessLayer\obj\Debug\net48\TestBusinessLayer.pdb

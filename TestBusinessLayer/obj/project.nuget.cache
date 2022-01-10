@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "07phgrf2umfiZOe3tGlJKALqg5BMQxWH4y5n5ly10tp0BURKLzZi7p68dV8Wyr1mJlAPHtB0JMVemTyejulHTA==",
+  "success": false,
+  "projectFilePath": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestBusinessLayer\\TestBusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ka8eeM\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestDataAccessLayer\\TestDataAccessLayer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Projects\\DeskTop\\BlockGeminiDeskTop__\\TestDataAccessLayer\\TestDataAccessLayer.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

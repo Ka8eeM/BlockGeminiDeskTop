@@ -1,0 +1,12 @@
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\TestDataAccessLayer.dll.config
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\TestDataAccessLayer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\TestDataAccessLayer.pdb
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\obj\Debug\TestDataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\obj\Debug\TestDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\obj\Debug\TestDataAccessLayer.csproj.CopyComplete
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\obj\Debug\TestDataAccessLayer.dll
+D:\Projects\DeskTop\BlockGeminiDeskTop\TestDataAccessLayer\obj\Debug\TestDataAccessLayer.pdb
